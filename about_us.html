@@ -62,8 +62,8 @@
             var objDiv=document.getElementById("toc")
             function scroll() {
                 var elem=document.getElementsByClassName("nav-link active")[0]
+                alert(elem.textContent)
                 if (elem != null && last != elem.textContent) {
-                    alert("Scrolling");
                     last=elem.textContent;
                     objDiv.scrollTop = elem.offsetTop;
                 }
