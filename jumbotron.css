@@ -4,7 +4,6 @@
 }
 
 h3 {
-  font-size: 120%;
   text-decoration: underline;
 }
 
@@ -27,6 +26,10 @@ label.btn {
 div.col-md-4, div.col-lg, div.col-sm {
   padding: 10px;
   background: rgba(255, 255, 255, 0.6);
+}
+
+div.col-lg {
+    margin-bottom: 5px;
 }
 
 div.col-sm-4 {
