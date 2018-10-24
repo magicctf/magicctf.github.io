@@ -25,7 +25,7 @@ label.btn {
 
 div.col-md-4, div.col-lg, div.col-sm {
   padding: 10px;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.8);
 }
 
 div.col-lg {
@@ -45,7 +45,7 @@ div.container#index {
     margin: 0px;
     height: 100%;
     width: 100%;
-    background: rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.8);
 }
 
 blockquote.blockquote {
@@ -69,7 +69,7 @@ div.position-fixed {
     z-index: 1000;
     width:17.5%;
     max-height:90%;
-    background: rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.8);
 }
 
 .affix {
